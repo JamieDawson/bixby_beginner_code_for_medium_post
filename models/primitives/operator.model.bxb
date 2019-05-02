@@ -1,0 +1,5 @@
+text (operatorConcept) {
+  description (The operator for the math equation)
+}
+
+//changed from name to text.
